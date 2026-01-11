@@ -1,0 +1,17 @@
+/node_modules/
+/dist/
+/.env
+.DS_Store
+/logs/
+*.log
+/coverage/
+.idea/
+.vscode/
+*.iml
+/build/
+/tmp/
+*.bak
+*.swp
+*.old
+*.orig
+/.cache/
